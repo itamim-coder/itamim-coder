@@ -9,9 +9,13 @@
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+   
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,typescript,react,nextjs)](https://skillicons.dev)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=cpp,javascript,typescript,postgreSql,python)](https://github.com/Jurredr/github-widgetbox)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itamim-coder&rank=SECRET,S,AAA,SS,S,A,AA)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itamim-coder)](https://git.io/streak-stats)
