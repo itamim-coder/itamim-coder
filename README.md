@@ -61,9 +61,7 @@
     <img height="200" src="https://github-profile-trophy.vercel.app/?username=itamim-coder&rank=SECRET,S,AAA,SS,S,A,AA&theme=react&margin-w=15&margin-h=15" />
   </a>
 </p>
-<br>
 
-<hr>
 
 
 
