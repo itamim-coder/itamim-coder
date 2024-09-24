@@ -15,6 +15,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/imtiaz-tamim" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 <!--   <a href="https://twitter.com/itamim" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter"/></a> -->
+    <a href="https://discord.com/users/412521107342753812" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="mailto:itamim12202@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail" alt="Gmail"/></a>
 </p>
 
